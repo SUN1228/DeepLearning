@@ -1,1 +1,1 @@
-test test haha
+简单word2vec实现
